@@ -1,0 +1,9 @@
+hack/dev/jigsaw/support_desk/service/TicketService.class
+hack/dev/jigsaw/support_desk/entity/CustomerRequest.class
+hack/dev/jigsaw/support_desk/Application.class
+hack/dev/jigsaw/support_desk/service/SmsSenderService.class
+hack/dev/jigsaw/support_desk/repository/CustomerRepository.class
+hack/dev/jigsaw/support_desk/entity/Customer.class
+hack/dev/jigsaw/support_desk/controller/ServiceDeskController.class
+hack/dev/jigsaw/support_desk/service/CustomerService.class
+hack/dev/jigsaw/support_desk/repository/CustomerRequestRepository.class

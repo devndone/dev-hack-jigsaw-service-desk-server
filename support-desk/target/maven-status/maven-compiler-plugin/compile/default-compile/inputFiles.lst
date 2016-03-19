@@ -1,0 +1,9 @@
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/repository/CustomerRepository.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/service/CustomerService.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/controller/ServiceDeskController.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/entity/Customer.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/service/SmsSenderService.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/service/TicketService.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/repository/CustomerRequestRepository.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/Application.java
+/Users/dev/workspace-sts/hack-jogsaw/support-desk/src/main/java/hack/dev/jigsaw/support_desk/entity/CustomerRequest.java
